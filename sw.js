@@ -1,5 +1,5 @@
 // Mude o número da versão sempre que atualizar os arquivos, para o celular pegar a novidade.
-const V = 'multidrive-v4';
+const V = 'multidrive-v5';
 const CORE = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-maskable-512.png'];
 const THREE = [
   'https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js',
